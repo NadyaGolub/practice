@@ -1,0 +1,30 @@
+@import './common';
+@import './base/reset';
+@import './utils/variables';
+@import './base/typography';
+@import './utils/mixins';
+@import './utils/placeholders';
+@import './base/body';
+@import './layout/header';
+@import './layout/hero';
+@import './layout/products';
+@import './layout/about';
+@import './layout/advantages';
+@import './layout/gallery';
+@import './layout/customer-reviews';
+@import './layout/contacts';
+@import './layout/footer';
+@import './components/buttons';
+@import './components/section-grid';
+@import './components/bg-wrapper';
+@import './components/forms';
+
+// стилі модальних вікон
+@import './components/overlay-modal';
+@import './components/locations-modal';
+@import './components/read-more-modal';
+@import './components/franchise-modal';
+@import './components/modal-ingridients';
+@import './components/modal-ingridients-2';
+@import './components/modal-ingridients-3';
+@import './components/modal-buy-now';
